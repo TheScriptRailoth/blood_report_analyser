@@ -2,6 +2,11 @@
 
 A FastAPI-based application that analyzes blood test reports using local LLM (Llama 2 via Ollama) to provide medical insights and recommendations.
 
+## 🎥 Demo
+
+Watch a live demonstration of the Blood Test Report Analyzer in action:
+**[Demo Video](https://www.loom.com/share/6aa0bf85c4ab4ec099c3d140ffaa2f17?sid=88cd7912-6c7f-4c47-91d6-441044474f49)**
+
 ## 🚀 Features
 
 - **Local LLM Processing**: Uses Llama 2 running locally via Ollama (no API keys required)
